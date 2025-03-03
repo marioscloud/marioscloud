@@ -17,7 +17,8 @@ I’m currently working on enhancing my expertise in **cloud architecture**, **D
 
 ## 🚀 Tech Stack and Skills  
 ### 🛠 Tools I Master:  
-- **Cloud Platforms:** AWS, Google Cloud Platform (GCP)  
+- **Cloud Platforms:** AWS
+- **Agile Development and Scrum**: Kanban, Scrum Methodology, Agile Software Development, Sprint Planning.
 - **DevOps & Automation:** Terraform  
 - **Containers & Orchestration:** Docker, Kubernetes  
 - **Scripting:** Bash
