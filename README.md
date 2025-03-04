@@ -19,9 +19,9 @@ I’m currently working on enhancing my expertise in **cloud architecture**, **D
 ### 🛠 Tools I Master:  
 - **Cloud Platforms:** AWS
 - **Agile Development and Scrum**: Kanban, Scrum Methodology, Agile Software Development, Sprint Planning.
-- **DevOps & Automation:** Terraform  
+- **DevOps & Automation:** Terraform, CloudFormation  
 - **Containers & Orchestration:** Docker, Kubernetes  
-- **Scripting:** Bash
+- **Scripting:** Bash, Python, HCL
 - **Operating Systems:** Linux (Ubuntu, Red Hat)  
 - **Version Control:** Git, GitHub  
 
