@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile  
 
 ## 🧑‍💻 About Me  
-Hello! I'm Mario Araos, a **Certified Cloud Engineer** from **The Linux Foundation** with a passion for building scalable, secure, and efficient cloud solutions. My journey in tech is fueled by curiosity, continuous learning, and a commitment to excellence.  
+Hello! I'm Mario Araos, a **Certified Cloud Engineer** from **The Linux Foundation** and **Devops Certified from IBM** with a passion for building scalable, secure, and efficient cloud solutions. My journey in tech is fueled by curiosity, continuous learning, and a commitment to excellence.  
 
 🌟 **Certifications and Expertise:**  
 - **Cloud Engineer. The Linux Foundation**
