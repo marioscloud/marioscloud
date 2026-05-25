@@ -5,10 +5,12 @@ Hello! I'm Mario Araos, a **Certified Cloud Engineer** from **The Linux Foundati
 
 🌟 **Certifications and Expertise:**  
 - **Cloud Engineer. The Linux Foundation**
+- **Advanced Cloud Engineer. The Linux Foundation**
 - **Linux Foundation Certified System Admnistrator (LFCS)**  
 - **Certified Kubernetes Administrator (CKA)**
 - **HashiCorp Certified: Terraform Associate**
-- Expertise in **Linux**, **Cloud Automation** and **Devops**  
+- **SAP S/4Hana System Administrator**
+- Master in **Linux**, **Kubernetes**, **Automation** and **Devops**  
 
 🌟 **What I’m Doing Now:**  
 I’m currently working on enhancing my expertise in **cloud architecture**, **DevOps practices**, and advanced **container orchestration systems**. My repository showcases projects that solve real-world problems using cutting-edge tools and technologies.  
