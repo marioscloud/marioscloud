@@ -1,67 +1,48 @@
-# 👋 Welcome to My GitHub Profile  
+👋 Welcome to My GitHub Profile
 
-## 🧑‍💻 About Me  
-Hello! I'm Mario Araos, a Technical Solutions Consultant and Certified Cloud Engineer passionate about bridging the gap between complex cloud infrastructure and strategic business outcomes. With advanced certifications from The Linux Foundation, IBM, and SAP, I specialize in architecting scalable, secure, and highly available environments that empower enterprises to innovate faster and operate with zero downtime.
+🧑‍💻 About Me
 
-🌟 **Certifications and Expertise:**  
-Cloud & Architecture: Advanced Cloud Engineer & Cloud Engineer (The Linux Foundation)
+Hello! I'm Mario Araos, an Elite DevOps and Kubernetes Engineer specializing in the administration, scaling, and automation of mission-critical on-premises and cloud-native Kubernetes environments. Holding advanced certifications—including Certified Kubernetes Administrator (CKA), Linux Foundation Certified System Administrator (LFCS), and HashiCorp Terraform Associate—I architect highly available, secure, and self-healing infrastructure. I excel in decoupling architectures and building robust GitOps workflows that eliminate manual drift and accelerate seamless CI/CD pipelines.
 
-Infrastructure & Orchestration: Certified Kubernetes Administrator (CKA) | HashiCorp Certified: Terraform Associate
+🌟 Certifications and Expertise:
+*   **Infrastructure & Orchestration:** Certified Kubernetes Administrator (CKA) | HashiCorp Certified: Terraform Associate
+*   **Cloud & Architecture:** Advanced Cloud Engineer & Cloud Engineer (The Linux Foundation)
+*   **Systems Administration:** Linux Foundation Certified System Administrator (LFCS) | Master in Linux, Kubernetes, Automation and DevOps
+*   **Enterprise Systems:** SAP S/4HANA System Administrator
 
-Enterprise Systems: SAP S/4HANA System Administrator
+🌟 What I’m Doing Now:
+I am currently focused on administering and maintaining on-prem Kubernetes clusters (leveraging kubeadm and containerd), executing complex installations, upgrades, and patching. I collaborate daily with developers, security engineers, and infrastructure teams to ensure seamless CI/CD workflows, while maintaining comprehensive documentation and operational runbooks for all infrastructure components.
 
-Systems Administration: Linux Foundation Certified System Administrator (LFCS) | Master in Linux, Kubernetes, Automation and DevOps
+🚀 Tech Stack and Core Competencies
 
-🌟 **What I’m Doing Now:**  
-I am currently architecting cloud-native solutions that drive enterprise scalability and operational efficiency. My repositories showcase production-grade projects that solve real-world business challenges, demonstrating how cutting-edge infrastructure directly accelerates time-to-market, ensures SLA compliance, and supports AI/CRM integrations.
+*   **Kubernetes Administration:** Deep expertise managing on-premises Kubernetes environments. Thorough understanding of Kubernetes primitives, including taints, tolerations, secrets, and RBAC. Strong familiarity with complex Kubernetes storage and networking concepts.
+*   **GitOps & Continuous Delivery:** Automating infrastructure provisioning and configuration management using ArgoCD to enforce declarative state and seamless delivery.
+*   **Observability & Telemetry:** Monitoring the performance and health of workloads, nodes, and clusters using Prometheus, Grafana, Grafana Alloy, metrics pipelines, and advanced alerting mechanisms.
+*   **Security & Compliance:** Implementing and monitoring strict security and access policies in line with industry best practices, enforcing Zero-Trust architectures.
+*   **Resilience & Operations:** Designing and implementing comprehensive backup, disaster recovery (DR), and high availability (HA) strategies for distributed clusters.
+*   **Scripting & Troubleshooting:** Solid scripting experience in Python, Bash, and PowerShell. Elite troubleshooting and problem-solving skills to rapidly resolve system, container, and network-level issues across distributed environments.
 
----
+📂 Featured Technical Portfolio
 
-## 🚀 Tech Stack and Skills  
-Business & Strategy: Technical Solutioning, Cross-Functional Collaboration, Agile/Scrum Methodology, Kanban, Sprint Planning.
+*   **Production-Grade GitOps & Continuous Delivery Ecosystem**
+    *   *Repositories:* [my-python-app-gitops](https://github.com/marioscloud/my-python-app-gitops) | [my-python-app](https://github.com/marioscloud/my-python-app)
+    *   *Technical:* Engineered a strictly decoupled, pull-based Continuous Delivery pipeline leveraging ArgoCD. Automated application rollouts to ensure seamless CI/CD workflows and zero-downtime releases.
+    *   *Impact:* Eliminated configuration drift, accelerated provisioning, and enabled instant rollback capabilities across distributed environments.
 
-Cloud Platforms: AWS, GCP.
+*   **Automated Infrastructure Provisioning & High Availability**
+    *   *Repository:* [my-python-app-infra](https://github.com/marioscloud/my-python-app-infra)
+    *   *Technical:* Automated the provisioning of production-grade clusters using Terraform. Designed foundational high availability and disaster recovery strategies, implementing robust Kubernetes storage and networking configurations.
+    *   *Impact:* Standardized cluster deployment, ensuring 99.9% availability for enterprise systems, fully supported by detailed operational runbooks.
 
-Infrastructure as Code (IaC): Terraform, CloudFormation, HCL.
+*   **Advanced Cluster Observability & Zero-Trust Security**
+    *   *Technical:* Deployed a comprehensive observability stack incorporating Prometheus, Grafana, and custom metrics pipelines. Implemented strict access control utilizing granular RBAC, secrets management, taints, and tolerations.
+    *   *Impact:* Empowered proactive troubleshooting of node and container-level anomalies, drastically reducing MTTR and ensuring absolute compliance with industry security standards.
 
-Containers & Orchestration: Kubernetes, Docker, Helm.
+🎯 Mission Statement
 
-DevOps & Automation: CI/CD Pipelines, GitOps, Bash, Python.
+My mission is to architect and operate unshakeable Kubernetes ecosystems. By combining rigorous GitOps methodologies with deep observability and proactive security, I transform complex distributed systems into highly available, automated, and self-healing environments.
 
-Operating Systems & Security: Linux (Ubuntu, Red Hat), Zero-Trust Security Models.
+💼 Let’s Collaborate!
 
----
-
-## 📂 Featured Projects  
-Cloud Infrastructure as Code with Terraform
-
-Technical: Automated deployment of scalable cloud solutions using Terraform modules with integrated CI/CD pipelines.
-
-Impact: Eliminated manual configuration drift and significantly accelerated environment provisioning for enterprise applications.
-
-Containerized Application Deployment & Observability
-
-Technical: Built a production-grade Kubernetes cluster for microservices with autoscaling and telemetry via Prometheus and Grafana.
-
-Impact: Ensured 99.9% system availability and empowered data-driven troubleshooting to minimize operational downtime.
-
-Linux System Hardening Script
-
-Technical: Developed a comprehensive script to enforce strict server security and access management best practices.
-
-Impact: Proactively reduced system vulnerabilities and ensured compliance with enterprise-level security standards.
-
----
-
-## 🎯 Mission Statement  
-I aim to drive business transformation through technology. By building cloud ecosystems that are reliable, secure, and highly scalable, I ensure that every line of code and architectural decision delivers tangible ROI, aligns with strategic goals, and provides an effortless experience for the end-user. 
-
----
-
-## 💼 Let’s Collaborate!  
-📩 **Email:** marioscloud@duck.com  
-🌐 **LinkedIn:** https://www.linkedin.com/in/mario-araos-it  
-
----
-
-🙌 **Thank you for visiting my GitHub profile!** Let’s connect and create something extraordinary together.  
+📩 Email: marioscloud@duck.com
+🌐 LinkedIn: https://www.linkedin.com/in/mario-araos-it
