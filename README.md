@@ -11,7 +11,7 @@ Hello! I'm Mario Araos, an Elite DevOps and Kubernetes Engineer specializing in 
 *   **Enterprise Systems:** SAP S/4HANA System Administrator
 
 🌟 What I’m Doing Now:
-I am currently focused on administering and maintaining on-prem Kubernetes clusters (leveraging kubeadm and containerd), executing complex installations, upgrades, and patching. I collaborate daily with developers, security engineers, and infrastructure teams to ensure seamless CI/CD workflows, while maintaining comprehensive documentation and operational runbooks for all infrastructure components.
+I am currently focused on administering and maintaining Kubernetes clusters (leveraging kubeadm and containerd), executing complex installations, upgrades, and patching. I collaborate daily with developers, security engineers, and infrastructure teams to ensure seamless CI/CD workflows, while maintaining comprehensive documentation and operational runbooks for all infrastructure components.
 
 🚀 Tech Stack and Core Competencies
 
